@@ -3,7 +3,7 @@
 ## 🌐 Website Preview
 
 ### 🖥️ Desktop View  
-![Website Preview](https://i.ibb.co/s9s1PyGx/desktop.png)
+![Website Preview](https://i.ibb.co/nN0XBSxF/desktop.png)
 
 ---
 
@@ -64,8 +64,8 @@ connect_with_us/
 ---
 
 ### 📱 Mobile View  
-![Mobile Preview](https://i.ibb.co/v6CCLZY2/mobile.png)
 
+<img src="https://i.ibb.co/fd4b7jhZ/mobile.png" alt="Mobile View" width="350">
 ---
 
 ## 📝 License
