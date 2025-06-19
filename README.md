@@ -66,6 +66,7 @@ connect_with_us/
 ### 📱 Mobile View  
 
 <img src="https://i.ibb.co/fd4b7jhZ/mobile.png" alt="Mobile View" width="350">
+
 ---
 
 ## 📝 License
